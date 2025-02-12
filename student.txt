@@ -1,1 +1,1 @@
-This is a student management function
+This is a Student management function
